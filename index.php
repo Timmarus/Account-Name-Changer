@@ -1,10 +1,10 @@
 <?php
 
 //Change these to your information
-$accountLoginName = 'alt152@mattbenson.net'; //Current account Mojang login username or email
-$accountUsername = 'spacecadet18'; //Current in-game username
-$accountPassword = 'dev123'; //Current account password
-$newName = 'rqwerdasfd'; //Desired new username
+$accountLoginName = ''; //Current account Mojang login username or email
+$accountUsername = ''; //Current in-game username
+$accountPassword = ''; //Current account password
+$newName = ''; //Desired new username
 $time = ''; //Time the account becomes available in the following format: mm/dd/yy hh:mm:ss
 //
 
